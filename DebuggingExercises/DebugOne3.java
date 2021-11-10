@@ -4,6 +4,6 @@ public class DebugOne33
    {
       System.Out.println("Over the river");
       system.out.println("and through the woods");
-      SysTem.0ut.println("to Grandmother's house we go");
+      SysTem.out.println("to Grandmother's house we go");
    }
 }
